@@ -1,7 +1,7 @@
 version: '3'
 services:
   web:
-    image: manikanta101/simple-python-app
+    image: manikanta101/simple-pthon-app
     ports:
      - "5000:5000"
 
